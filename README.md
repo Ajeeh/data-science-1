@@ -1,2 +1,2 @@
-data-science-1
+data-science coursera jhu-1
 ==============
